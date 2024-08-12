@@ -1,1 +1,3 @@
 Estrutura de dados
+
+Aula 1 - Atividade com números complexos.
